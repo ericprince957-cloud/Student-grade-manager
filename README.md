@@ -1,5 +1,7 @@
 # student-grade-manager
+
 # Student Management System  A command-line Student Management System built with Python. The application allows users to add, search, view, and manage student records while storing data permanently in a JSON file.  
+
 ## Features  
 * Add student records 
 * View all students 
