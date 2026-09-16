@@ -1,2 +1,28 @@
 # student-grade-manager
-# Student Management System  A command-line Student Management System built with Python. The application allows users to add, search, view, and manage student records while storing data permanently in a JSON file.  ## Features  * Add student records * View all students * Search for students * Calculate grades automatically * Calculate class average score * Save data using JSON * Input validation * Menu-driven interface  ## Technologies Used  * Python 3 * JSON * File Handling  ## How to Run  1. Clone the repository. 2. Open a terminal in the project folder. 3. Run:  python mymodule.py  ## Future Improvements  * Edit student records * Delete student records * Sort students by score * Export reports * Object-Oriented Programming version
+# Student Management System  A command-line Student Management System built with Python. The application allows users to add, search, view, and manage student records while storing data permanently in a JSON file.  
+## Features  
+* Add student records 
+* View all students 
+* Search for students 
+* Calculate grades automatically 
+* Calculate class average score 
+* Save data using JSON 
+* Input validation 
+* Menu-driven interface  
+
+## Technologies Used  
+* Python 3 
+* JSON 
+* File Handling  
+
+## How to Run  
+1. Clone the repository. 
+2. Open a terminal in the project folder. 
+3. Run:  python mymodule.py  
+
+## Future Improvements  
+* Edit student records 
+* Delete student records 
+* Sort students by score 
+* Export reports 
+* Object-Oriented Programming version
